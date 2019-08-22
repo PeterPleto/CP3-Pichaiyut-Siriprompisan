@@ -1,0 +1,6 @@
+first_number = input("First Number: ")
+second_number = input("Second Number: ")
+print(first_number,"+",second_number,"=",int(first_number)+int(second_number))
+print(first_number,"-",second_number,"=",int(first_number)-int(second_number))
+print(first_number,"*",second_number,"=",int(first_number)*int(second_number))
+print(first_number,"/",second_number,"=",int(first_number)/int(second_number))
